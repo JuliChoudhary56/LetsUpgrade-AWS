@@ -1,0 +1,9 @@
+Instances
+	Instance-1
+		Name : Linux1D4		Public Ip : 13.59.153.34	Instance-2
+		Name : Linux2D4
+		Public Ip : 13.59.142.183 
+
+Load-Balancer
+	Name : juliChoudharyelb
+	DNS name : juliChoudharyelb-1693238650.us-east-2.elb.amazonaws.com 
